@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Milena
 
 <div>
-  <img height=225em src="https://github-readme-stats.vercel.app/api?username=milenaa052&show_icons=true&theme=radical">
-  <img height=225em src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaa052&layout=donut&show_icons=true&theme=radical">
+  <img height=200em src="https://github-readme-stats.vercel.app/api?username=milenaa052&show_icons=true&theme=radical">
+  <img height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaa052&layout=donut&show_icons=true&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
